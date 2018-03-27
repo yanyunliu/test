@@ -28,7 +28,7 @@ html,body,.wrap {height: 100%;}
 .wan {width: 130px;height: 447px;background:url(../images/wan.png);position: absolute;top:480px;left:40px;z-index: 3;}
 .textarea {position: absolute;width: 346px;height: 111px;background: url(../images/textarea.png);top:740px;z-index: 4;left:170px;padding-top: 20px;padding-left: 20px;padding-right: 20px;}
 .textarea textarea {font-size: 24px;color:#91715f;border:none;background: #fff;line-height: 30px;height: 60px;width: 300px;overflow: hidden;resize:none;font-family:Microsoft YaHei;}
-#submit {width: 202px;height: 52px;background: url(../images/btn-submit.png);position: absolute;top:870px;left:50%;margin-left: -101px;}
+.submit {width: 202px;height: 52px;background: url(../images/btn-submit.png);position: absolute;top:870px;left:50%;margin-left: -101px;}
 
 .share {width: 368px;height: 108px;position: absolute;background: url(../images/btn-share.png);top:825px;right:42px;}
 
